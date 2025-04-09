@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5510424160e9e79459a3a7906c8d3e6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinSound: {fileID: 5898426972996719965, guid: c65b06b48380e354ab2863e711f67260, type: 3}
+  - bombSound: {fileID: 1535016803315042136, guid: 649c1cd668fffda4496c44c9a853dbe3, type: 3}
+  - jumpSound: {fileID: 3185609393217808918, guid: 6f6367f71736ea64cafad9da5865d129, type: 3}
+  - heelSound: {fileID: 4232038463432528296, guid: 04049831d16c4254cbb29a0c6472909b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

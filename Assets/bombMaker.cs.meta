@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0c057f1e138c896458a8d9bf13ec6fe3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bmprefab: {fileID: 3870127661257334189, guid: a285f94ecf5189347a7d322f08327b27, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

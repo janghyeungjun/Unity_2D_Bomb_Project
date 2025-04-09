@@ -1,0 +1,32 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]uild_Game/
+UserSettings/
+
+# IDE & project files
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs & build output
+*.log
+*.apk
+*.aab
+*.exe
+*.zip
+*.app
+
+# 기타
+sysinfo.txt
